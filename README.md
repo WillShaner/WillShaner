@@ -5,7 +5,7 @@ I'm William Shaner, a full-time web developer at Ramsey MediaWorks. Welcome to m
 ## About Me
 
 - 🌐 [Portfolio](https://genuine-sunflower-520c38.netlify.app/)
-- 📚 Currently learning and growing in front-end development.
+- 📚 Currently learning Java.
 - 💡 Love exploring new technologies and building cool stuff.
 - 🎓 Bachelor's Integrated Studies, Altacademy Front-End Web Development Bootcamp
 - 📫 How to reach me: [williamshaner3@gmail.com](mailto:williamshaner3@gmail.com)
